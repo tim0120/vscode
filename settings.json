@@ -1,0 +1,18 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.tabCompletion": "on",
+    "explorer.confirmDelete": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "workbench.sideBar.location": "right",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "editor.accessibilitySupport": "off",
+    "vim.statusBarColors.searchinprogressmode": "",
+    "debug.javascript.autoAttachFilter": "smart"
+}
